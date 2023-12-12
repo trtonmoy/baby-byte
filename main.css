@@ -3695,3 +3695,14 @@ img.road_img {
     height: 90vh;
   }
 }
+
+@media screen and (max-width: 400px) {
+  .hero {
+    height: 122vh;
+  }
+}
+@media screen and (max-width: 768px) {
+  .lg-img {
+    display: none;
+  }
+}
