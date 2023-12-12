@@ -3703,6 +3703,6 @@ img.road_img {
 }
 @media screen and (max-width: 768px) {
   .lg-img {
-    display: none;
+    display: none !important;
   }
 }
