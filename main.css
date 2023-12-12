@@ -6,7 +6,7 @@ html {
 
 body {
   margin: 0;
-  background-color: #558593;
+  /* background-color: #558593; */
   /* background-image: linear-gradient(#000000a6, #000000ab), url(/images/bg.gif); */
   background-size: cover;
 }
